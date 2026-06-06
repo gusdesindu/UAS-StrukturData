@@ -1,0 +1,30 @@
+{
+  "ronaldo": [
+    "messi",
+    "neymar"
+  ],
+  "messi": [
+    "ronaldo",
+    "mbappe",
+    "Miawaug"
+  ],
+  "neymar": [
+    "ronaldo"
+  ],
+  "mbappe": [
+    "messi",
+    "Miawaug"
+  ],
+  "Miawaug": [
+    "mbappe"
+  ],
+  "atmaja": [
+    "ronaldo"
+  ],
+  "gusde": [
+    "Miawaug"
+  ],
+  "Halaand": [
+    "Miawaug"
+  ]
+}
