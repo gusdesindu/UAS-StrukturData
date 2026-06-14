@@ -8,6 +8,10 @@
 
 ---
 
+link Video Demo
+https://youtu.be/OrjZbKisZbU?si=pYFR5cjkIrnZrRvp
+---
+
 ## Deskripsi Project
 
 DSS (Decision Support System) Relasi Sosial Media merupakan sistem pendukung keputusan yang memanfaatkan struktur data Graph untuk merepresentasikan hubungan antar pengguna media sosial.
